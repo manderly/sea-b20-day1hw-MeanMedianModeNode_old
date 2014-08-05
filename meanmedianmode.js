@@ -7,6 +7,7 @@ function meanMedianMode(args) {
 	var mostFrequentNum;
 	var numOccurrences = 0;
 	var midpoint = 0;
+  
 	//*** PRE PROCESSING LOOP ***
 	//Remember that the first 2 array elements are actually node elements and should be skipped
 	for (i = 2; i < args.length; i ++) {
