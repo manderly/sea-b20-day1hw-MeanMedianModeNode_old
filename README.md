@@ -5,7 +5,7 @@ Mean Median Mode Node
 
 **Step 1:** Navigate to the folder that contains meanmedianmode.js in Terminal.
 
-**Step 2:** Type: **node meanmedianmode.js*** followed by a series of space-separated numbers.
+**Step 2:** Type: **node meanmedianmode.js** followed by a series of space-separated numbers.
 
 ```
 node meanmedianmode.js 10 2 1 5 6788 3 0 5 5
