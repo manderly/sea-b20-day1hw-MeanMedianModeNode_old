@@ -1,6 +1,8 @@
 Mean Median Mode Node 
 ==============================
 
+Requires node.js
+
 ##How to Use##
 
 **Step 1:** Navigate to the folder that contains meanmedianmode.js in Terminal.
